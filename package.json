@@ -1,0 +1,41 @@
+{
+  "name": "logistics-api",
+  "version": "1.0.0",
+  "description": "Logistics api to manage rider deliveries",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "jwt",
+    "authentication",
+    "authorization",
+    "otp",
+    "sendmail"
+  ],
+  "author": "Codegiyu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jest": "^29.7.0",
+    "joi": "^17.11.0",
+    "mongoose": "^7.5.3",
+    "nodemailer": "^6.9.7",
+    "otp-generator": "^4.0.1",
+    "socket.io": "^4.7.2",
+    "supertest": "^6.3.3"
+  },
+  "devDependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
