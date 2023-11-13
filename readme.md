@@ -1,5 +1,5 @@
-# Project: Kodecamp-OTP
-Very basic auth app api to grasp sending mails and the reset password flow
+# Project: Logistics Sample API
+Basic logistics api to get the feel of combining express and websocket routes
 # 📁 Collection: Auth 
 
 
